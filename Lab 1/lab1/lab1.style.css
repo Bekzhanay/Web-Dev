@@ -1,0 +1,32 @@
+body {
+                background-color: rgb(255, 251, 245);
+            }
+
+            h1 {
+                background-color: rgb(252, 203, 119);
+            }
+
+            h2 {
+                color: rgb(201, 127, 0);
+            }
+
+            ol {
+                background-color: rgb(255, 241, 212);
+            }
+
+            table {
+                background-color: rgb(255, 255, 255);
+            }
+
+            th, td 
+            th {
+                background-color: rgb(252, 203, 119);
+            }
+
+            #recipe1, #recipe2, #recipe3 {
+                background-color: rgb(255, 241, 212);
+            }
+
+            a {
+                color: rgb(222, 146, 24);
+            }
